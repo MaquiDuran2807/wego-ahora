@@ -30,3 +30,9 @@ urlpatterns = [
     path('api/', include('autenticacion.urls')),
     path('api/', include(router.urls)),
 ]
+
+
+#superusuario
+#email: mquiroga@unal.edu.co
+#usuario: miguel
+#contraseña: 12345

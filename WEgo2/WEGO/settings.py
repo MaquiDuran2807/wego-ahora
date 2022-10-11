@@ -45,6 +45,9 @@ INSTALLED_APPS = [
     #'api',
     #'usuarios',
     'autenticacion',
+    'conductores',
+    'persona',
+    'vehiculo',
 ]
 
 MIDDLEWARE = [
